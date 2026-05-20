@@ -31,7 +31,7 @@
 
 | Model | Why it matters | Year |
 |---|---|---|
-| **Yottixel · KimiaNet · SISH** | Pioneering work on **pathology WSI search and retrieval**. Yottixel: mosaic + binary "barcode" indexing for gigapixel WSI search. KimiaNet: DenseNet fine-tuned on ~240K TCGA patches, widely used as a pathology encoder. SISH: self-supervised image-search for histology with sub-linear retrieval. | 2020–22 |
+| **Yottixel · KimiaNet · SISH**  (Tizhoosh / KIMIA Lab → Rhazes Lab / Mayo Clinic) | Pioneering work on **pathology WSI search and retrieval**. Yottixel: mosaic + binary "barcode" indexing for gigapixel WSI search. KimiaNet: DenseNet fine-tuned on ~240K TCGA patches, widely used as a pathology encoder. SISH: self-supervised image-search for histology with sub-linear retrieval. | 2020–22 |
 | **UNI / CONCH** (Mahmood Lab, *Nature Medicine*) | UNI: vision-only DINOv2 on >100M patches; CONCH: vision-language on 1.17M image-text pairs. | 2024 |
 | **Prov-GigaPath** (Microsoft/Providence, *Nature*) | First WSI FM with LongNet slide-level pretraining on 1.3B tiles from 171,189 WSIs. | 2024 |
 | **Virchow / Virchow2** (Paige.AI, *Nat. Medicine*) | 632M-param ViT trained on 1.5M WSIs (Virchow); Virchow2 scales to 3.1M slides / 1.7–1.9B tiles. | 2024 |
