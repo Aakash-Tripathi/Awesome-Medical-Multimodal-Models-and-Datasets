@@ -3,7 +3,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
 [![GitHub stars](https://img.shields.io/github/stars/Aakash-Tripathi/Awesome-Medical-Multimodal-Models-and-Datasets.svg?style=social)](https://github.com/Aakash-Tripathi/Awesome-Medical-Multimodal-Models-and-Datasets/stargazers)
-[![Last Updated](https://img.shields.io/badge/Last%20Updated-May%202026-blue)](#)
+[![Last Updated](https://img.shields.io/badge/Last%20Updated-Sept%202026-blue)](#)
 
 > A comprehensive, curated catalog of **medical multimodal AI models** and **medical datasets** across radiology, pathology (WSI), ophthalmology, dermatology, EHR, omics (genomics / transcriptomics / proteomics), and combined multimodal benchmarks.
 >
