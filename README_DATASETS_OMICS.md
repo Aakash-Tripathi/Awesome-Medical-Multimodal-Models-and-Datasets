@@ -51,6 +51,8 @@
 |---|---|---|---|
 | **HEST-1k** | H&E + spatial gene expression | 2024 | [GitHub](https://github.com/mahmoodlab/hest) |
 | **STimage-1K4M** | Pathology + spatial transcriptomics | 2024 | [arXiv:2406.06393](https://arxiv.org/abs/2406.06393) |
+| **TCGA virtual ST atlas** | H&E + virtual spatial gene expression + coords + gene IDs (DeepSpot-M; 28,664 slides / 32 cancers) | 2026 | [HF](https://huggingface.co/datasets/ratschlab/TCGA_virtual_spatial_transcriptomics_atlas) · [medRxiv](https://www.medrxiv.org/content/10.64898/2026.06.19.26356060v1) |
+| **HEST Xenium virtual ST** | H&E + virtual single-cell expression + coords + gene IDs (DeepSpot-M; 59 Xenium samples / ~13.3M cells) | 2026 | [HF](https://huggingface.co/datasets/ratschlab/HEST_Xenium_virtual_spatial_transcriptomics) · [medRxiv](https://www.medrxiv.org/content/10.64898/2026.06.19.26356060v1) |
 | **10x Visium public datasets** | Spatial transcriptomics | ongoing | [10x Genomics](https://www.10xgenomics.com/resources/datasets) |
 
 ---
