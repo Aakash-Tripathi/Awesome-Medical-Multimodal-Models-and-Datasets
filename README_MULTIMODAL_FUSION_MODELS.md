@@ -52,6 +52,7 @@
 |---|---|---|---|---|
 | **STimage-1K4M** | Pathology + spatial transcriptomics | 2024 | [arXiv:2406.06393](https://arxiv.org/abs/2406.06393) | — |
 | **HEST-1k** | H&E + spatial gene expression | 2024 | [NeurIPS 2024 / arXiv:2406.16192](https://arxiv.org/abs/2406.16192) | [GitHub](https://github.com/mahmoodlab/hest) |
+| **DeepSpot-M (KPMP kidney)** | H&E + virtual spatial transcriptomics + clinical annotations (kidney biopsies) | 2026 | [medRxiv 2026](https://www.medrxiv.org/content/10.64898/2026.11.17.26368273v1) | [GitHub](https://github.com/ratschlab/projects2026-kidney-kpmp-analysis) |
 
 ---
 
